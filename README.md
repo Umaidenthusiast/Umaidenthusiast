@@ -28,7 +28,8 @@ const umaid = {
     databases: ["SQL", "MongoDB", "Firebase"],
   },
   launchedProjects: ["movie-recommendation-systems"],
-  certifications: [],
+  certifications: ["CS50 Introduction to databases with sql","NPTEL Programming In Java","NPTEL Internet of things"],
+  Experience: "Data Science intern in company named skillumni in 2025"
   status: "Learning, building, and shipping projects",
   openTo: ["Internships", "Full-time roles", "Collaboration"],
 };
