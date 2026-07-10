@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Umaid%20Gudmithe&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Umaidenthusiast">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Data+Science+Engineer+in+the+Making;React.js+%7C+Node.js+%7C+Python+%7C+Java;Building+a+Movie+Recommendation+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Data+Science+Engineer+in+the+Making;React.js+%7C+Node.js+%7C+Python+%7C+Java;Assembled+a+Movie+Recommendation+System" alt="Typing SVG" />
 </a>
 
 <br/>
