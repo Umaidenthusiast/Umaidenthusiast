@@ -19,20 +19,6 @@
 
 ## 🧠 Who I Am
 
-## 📄 Resume
-
-<div align="center">
-
-<a href="https://github.com/Umaidenthusiast/REPOSITORY_NAME/blob/main/assets/Umaid_Gudmithe_Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-7dd3fc?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
-</a>
-
-<a href="https://github.com/Umaidenthusiast/REPOSITORY_NAME/raw/main/assets/Umaid_Gudmithe_Resume.pdf">
-  <img src="https://img.shields.io/badge/Download%20Resume-7dd3fc?style=for-the-badge&logo=googledrive&logoColor=black" />
-</a>
-
-</div>
-
 ```typescript
 const umaid = {
   title: "CS Student",
@@ -50,6 +36,20 @@ const umaid = {
 ```
 
 <br/>
+
+## 📄 Resume
+
+<div align="center">
+
+<a href="https://github.com/Umaidenthusiast/REPOSITORY_NAME/blob/main/assets/Umaid_Gudmithe_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Resume-7dd3fc?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" />
+</a>
+
+<a href="https://github.com/Umaidenthusiast/REPOSITORY_NAME/raw/main/assets/Umaid_Gudmithe_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download%20Resume-7dd3fc?style=for-the-badge&logo=googledrive&logoColor=black" />
+</a>
+
+</div>
 
 ## 🚀 Featured Projects
 
